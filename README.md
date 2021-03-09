@@ -4,7 +4,7 @@
 for the advantages of the features of this script I have completed everything. you can check the features below :smile:<br>
 I optimize for updates as soon as possible, for a better experience.
 
-![penucuriCode](https://github.com/penucuriCode/shell-backdoor/blob/main/Spoiler.PNG)
+![penucuriCode](https://github.com/penucuriCode/shell-backdoor/blob/main/ss1.PNG)
 ![penucuriCode](https://github.com/penucuriCode/shell-backdoor/blob/main/Spoiler02.PNG)
 
 # Features Meow404 Shell v1.0
